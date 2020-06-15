@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1025558941007",
+    "firebase_url": "https://mm-pagoda-history.firebaseio.com",
+    "project_id": "mm-pagoda-history",
+    "storage_bucket": "mm-pagoda-history.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025558941007:android:49766fba9d5847c745c93a",
+        "android_client_info": {
+          "package_name": "com.teamcs.mm.mmpagodahistory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025558941007-l0ltr3ef09vlt5en5h3tathlvbnqbuhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB68QcBYpy7ZMmTE4oTqY_4EXdmc3k8yfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025558941007-l0ltr3ef09vlt5en5h3tathlvbnqbuhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
